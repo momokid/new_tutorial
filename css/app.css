@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#loanForm {
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+label {
+  display: inline-block;
+  width: 120px;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: right;
+}
+button {
+  margin-top: 10px;
+  padding: 10px;
+}
+input {
+  padding: 10px;
+  margin: 5px;
+  width: 40%;
+}
+
+button {
+  border-radius: 10px;
+  background-color: brown;
+  border: 1px solid gray;
+  color: white;
+  cursor: pointer;
+}
